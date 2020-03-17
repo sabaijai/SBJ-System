@@ -28,6 +28,8 @@
 ## 1.1. Purpose
 # 2. OVERALL DESCRIPTION
 ## 2.1. System Environment
-(/images/General Use Case.png)
+![GitHub Logo](/images/General%20Use%20Case.png)
+
+
 ## 2.2. Functional Requirements Specification
 ### 2.2.1. Marketing
