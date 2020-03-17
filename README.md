@@ -2,10 +2,10 @@
 =================
 
 <!--ts-->
-   * [gh-md-toc](#gh-md-toc)
-   * [Table of contents](#table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
+   1. [INTRODUCTION](#INTRODUCTION)
+   2. [Table of contents](#table-of-contents)
+   * [1. INTRODUCTION](#installation)
+      * [1.1. Purpose](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
@@ -17,4 +17,4 @@
    * [Dependency](#dependency)
 <!--te-->
 
-# installation
+# INTRODUCTION
