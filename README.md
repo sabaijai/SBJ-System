@@ -3,7 +3,7 @@
 
 <!--ts-->
    [1. INTRODUCTION](#INTRODUCTION)
-   2. [Table of contents](#table-of-contents)
+   [1.1. Purpose](#Purpose)
    * [1. INTRODUCTION](#installation)
       * [1.1. Purpose](#usage)
       * [STDIN](#stdin)
@@ -17,4 +17,5 @@
    * [Dependency](#dependency)
 <!--te-->
 
-# INTRODUCTION
+# 1. INTRODUCTION
+## 1.1. Purpose
