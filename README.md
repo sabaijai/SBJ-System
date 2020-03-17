@@ -2,7 +2,7 @@
 =================
 
 <!--ts-->
-   1. [INTRODUCTION](#INTRODUCTION)
+   [1. INTRODUCTION](#INTRODUCTION)
    2. [Table of contents](#table-of-contents)
    * [1. INTRODUCTION](#installation)
       * [1.1. Purpose](#usage)
