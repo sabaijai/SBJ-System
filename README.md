@@ -5,17 +5,23 @@
    [1. INTRODUCTION](#INTRODUCTION)
    
    [1.1. Purpose](#Purpose)
-   * [1. INTRODUCTION](#installation)
-      * [1.1. Purpose](#usage)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
+   
+   [1.2. Scope of Project]
+
+   [1.3. Glossary]
+
+   [1.4. Overview of the Document]
+
+   [2. OVERALL DESCRIPTION]
+
+   [2.1. Product Perspective]
+
+   [2.1.1. Development Methodology]
+
+   [2.2. User Characteristics]
+
+   [2.2.1. Students]
+   
 <!--te-->
 
 # 1. INTRODUCTION
