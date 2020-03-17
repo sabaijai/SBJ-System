@@ -2,9 +2,9 @@
 =================
 
 <!--ts-->
-   [1. INTRODUCTION](#1INTRODUCTION)
+   [1. INTRODUCTION](#1-INTRODUCTION)
    
-   [1.1. Purpose](#11Purpose)
+   [1.1. Purpose](#11-Purpose)
    
    [1.2. Scope of Project](#ScopeofProject)
    
