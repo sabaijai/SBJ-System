@@ -27,6 +27,7 @@
 # 1. INTRODUCTION
 ## 1.1. Purpose
 # 2. OVERALL DESCRIPTION
-## 2.1. Product Perspective
-## 2.2. User Characteristics
+## 2.1. System Environment
+(/images/General Use Case.png)
+## 2.2. Functional Requirements Specification
 ### 2.2.1. Marketing
