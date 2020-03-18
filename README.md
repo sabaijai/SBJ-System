@@ -20,7 +20,7 @@
 
    [2.2. Functional Requirements Specification](#)
 
-   [2.2.1. Customer](#)
+   [2.2.1. Login to the system](#)
    
 <!--te-->
 
@@ -28,13 +28,17 @@
 ## 1.1. Purpose
 # 2. OVERALL DESCRIPTION
 ## 2.1. System Environment
+### 2.1.1 System Use Case
 ![GitHub Logo](/images/system-usecase.png)
+
+### 2.1.2 Beauty Use Case
+![GitHub Logo](/images/beauty-usecase.png)
 
 
 ## 2.2. Functional Requirements Specification
-### 2.2.1. Customer
+### 2.2.1. Login to the system
 
-**Use Case Name** : Register
+**Use Case Name** : Login to the system
 
 **Description** 
 
