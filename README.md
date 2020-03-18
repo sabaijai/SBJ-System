@@ -34,13 +34,12 @@
 ## 2.2. Functional Requirements Specification
 ### 2.2.1. Customer
 
-#### Use Case Name
-   
-   Customer
+**Use Case Name** : Register
 
------ | ----
-Description | 
-Pre-Condition | - Guest must have
--- | - Guest must have
+**Description** 
+
+**Pre-Condition**
+   - Guest must have
+   - Guest must have
 
 ### 2.2.2. 
