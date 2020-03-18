@@ -32,4 +32,10 @@
 
 
 ## 2.2. Functional Requirements Specification
-### 2.2.1. Marketing
+### 2.2.1. Customer
+
+Use Case Name |  
+----- | ----
+Level |  
+
+### 2.2.2. 
