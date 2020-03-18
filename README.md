@@ -20,7 +20,7 @@
 
    [2.2. Functional Requirements Specification](#)
 
-   [2.2.1. Students](#)
+   [2.2.1. Customer](#)
    
 <!--te-->
 
@@ -28,7 +28,7 @@
 ## 1.1. Purpose
 # 2. OVERALL DESCRIPTION
 ## 2.1. System Environment
-![GitHub Logo](/images/General%20Use%20Case.png)
+![GitHub Logo](/images/system-usecase.png)
 
 
 ## 2.2. Functional Requirements Specification
