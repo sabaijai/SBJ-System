@@ -38,9 +38,11 @@
 
 
 ## 2.2. Functional Requirements Specification
-### 2.2.1. Login to the system
+### 2.2.1. Register
 
-**Use Case Name** : Login to the system
+**Use Case Name** : Register
+
+**Actors** : Customer, Marketing, Credit, Contract, Disburse
 
 **Description** 
 
